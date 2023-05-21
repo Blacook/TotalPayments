@@ -166,7 +166,7 @@ cython_debug/
 .vscode
 
 #data
-#data/*
+data/*
 result/*
 .pkl
 .pickle
